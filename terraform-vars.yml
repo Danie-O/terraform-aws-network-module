@@ -1,0 +1,13 @@
+# Root module variables
+region: us-east-2
+availability_zones:
+  - us-east-2a
+  - us-east-2b
+  - us-east-2c
+
+# Network module variables
+application_name: flask-app
+vpc_cidr: 10.0.0.0/16
+default_route: 0.0.0.0/0
+tenancy: default
+true: true
