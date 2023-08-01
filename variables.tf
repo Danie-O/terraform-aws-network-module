@@ -31,7 +31,3 @@ variable "tenancy" {
     default = "default"
 }
 
-variable "true" {
-    type = bool
-    default = true
-}
