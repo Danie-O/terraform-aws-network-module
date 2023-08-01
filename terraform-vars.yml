@@ -10,4 +10,4 @@ application_name: flask-app
 vpc_cidr: 10.0.0.0/16
 default_route: 0.0.0.0/0
 tenancy: default
-true: true
+
